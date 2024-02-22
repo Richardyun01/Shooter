@@ -13,6 +13,11 @@ typedef enum {
     WALKING, FLYING
 } MYSHIP_FORM;
 
+//변신하는 캐릭터
 void Transform(bool button);
+
+//물속에서 이동
+void Underwater1(float& x, float& y, float vx, float vy, float h);
+void Underwater2(float& x, float& y, float x0, float y0, float x1, float y1, float vx, float vy, float wx0[], float wy0[], float wx1[], float wy1[], int num_water);
 
 #endif // header guard

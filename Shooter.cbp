@@ -32,7 +32,8 @@
 		<Unit filename="src/CharAir.h" />
 		<Unit filename="src/CharGround.cpp" />
 		<Unit filename="src/CharGround.h" />
-		<Unit filename="src/main.cpp" />
+		<Unit filename="src/Option.cpp" />
+		<Unit filename="src/Option.h" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
