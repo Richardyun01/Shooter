@@ -34,6 +34,7 @@
 		<Unit filename="src/CharGround.h" />
 		<Unit filename="src/Option.cpp" />
 		<Unit filename="src/Option.h" />
+		<Unit filename="src/Shot.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
