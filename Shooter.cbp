@@ -35,6 +35,7 @@
 		<Unit filename="src/Option.cpp" />
 		<Unit filename="src/Option.h" />
 		<Unit filename="src/Shot.cpp" />
+		<Unit filename="src/Shot.h" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
