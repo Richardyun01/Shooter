@@ -26,6 +26,7 @@
 			<Add directory="C:/Program Files/CodeBlocks/MinGW/x86_64-w64-mingw32/lib" />
 		</Linker>
 		<Unit filename="main.cpp" />
+		<Unit filename="src/Bomb.cpp" />
 		<Unit filename="src/Bullet.cpp" />
 		<Unit filename="src/Bullet.h" />
 		<Unit filename="src/CharAir.cpp" />
